@@ -61,5 +61,5 @@ void World::render()
 		}
 	}
 
-	img.write_png_file("filename.png");
+	img.write_png_file("filename1.png");
 }
